@@ -1,4 +1,15 @@
+.title {
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0 540px;
+    font-family: 'Courier New', Courier, monospace;
+}
 li {
+    font-family: sans-serif;
     font-weight: bold;
     font-size: x-large;
+}
+.welcome-image {
+    margin: 0 auto;
 }
